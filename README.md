@@ -10,5 +10,5 @@ too lazy to make this look nice but i have a **[portfolio](https://www.domnidy.c
 - make fullstack things & stuff
 
 ### goals:
-- do some stuff in pytorch
-- do nothing in java
+- do some stuff in pytorch / rust
+- do less in java
