@@ -1,13 +1,11 @@
-# hi...
-too lazy to make this look nice but i have a **[portfolio](https://www.domnidy.com/)** that looks decent if you're into that kinda thing 
+# hi
+slightly outdated portfolio can be found **[here](https://www.domnidy.com/)** 
 
 ### about me:
-- i like going on walks
+i like going on walks, writing code, and challenging myself.
 
-### about my code:
-- make fullstack things & stuff
+### current areas of interest:
+- computer architecture & operating systems
+- writing backend services w/ golang
 
-### goals:
-- do some ml stuff in torch
-- do some reverse engineering
-- do some rust
+
